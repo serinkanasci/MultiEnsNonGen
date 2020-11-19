@@ -1,5 +1,6 @@
 
 public interface SpecifMultiEnsNonGen {
+
     // Ajout de la valeur val au multi-ensemble
     public abstract void ajouter(int val);
     // Retrait de la valeur val du multi-ensemble :
